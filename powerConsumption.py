@@ -1,6 +1,5 @@
 '''the purpose of this program is to calculate the home power consumption for individuals by prompting users
 for their kwh usage at different times throughout the day
-Created by: William Zhang, CS1026A'''
 #set the price per kwh throughout the day and tax percent
 offPeak = 0.085
 peak = 0.176
